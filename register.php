@@ -1,5 +1,5 @@
 <?php
-include('db_connection.php');
+include('config.php');
 
 // Handle registration form submission
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
